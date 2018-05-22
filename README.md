@@ -1,2 +1,3 @@
 # LMI-Lidar-Mapping-Instrument
-A three-dimensional LIDAR scanner built as part of ASTR 202 in Spring 2018 (Wellesley College)
+A three-dimensional LIDAR scanner built as part of ASTR 202 in Spring 2018 (Wellesley College). 
+LMI was built as a scientific instrument on the Scanning Outcrop Rover (ScOut), which is a semi-autonomous, radio-enabled, path-finding rover. ScOut was built in order to explore a bedrock outcrop in the Wellesley Hinterlands, located just west of Lake Waban in Wellesley, Massachusetts. The Rover had two primary scientific objectives: to construct a three-dimensional map of a bedrock outcrop and to collect images of the outcrop surface. The data from the LMI were used to interpret an environment and to create a DEM (digital elevation model) for the path-finding algorithm.
